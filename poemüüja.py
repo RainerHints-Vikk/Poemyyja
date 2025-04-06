@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 aken = pygame.display.set_mode([640, 480])
-pygame.display.set_caption("Mängunimi")
+pygame.display.set_caption("Poemüüja - Rainer Hints ISK24")
 
 taust = pygame.image.load("bg_shop.jpg")
 
